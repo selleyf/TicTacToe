@@ -1,0 +1,39 @@
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+c:\users\fanni\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\fanni\Desktop\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\fanni\Desktop\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\fanni\Desktop\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\fanni\Desktop\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\fanni\Desktop\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fanni\Desktop\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+C:\Users\fanni\Desktop\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\fanni\Desktop\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fanni\Desktop\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fanni\Desktop\ELTE\2011 ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\fanni\Desktop\ELTE\2011 ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Fanni\Documents\ELTE\2011ősz\c#\TicTacToe\obj\x86\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\selle\OneDrive\Asztali gép\c#\TicTacToe\obj\x86\Debug\TicTacToe.pdb
